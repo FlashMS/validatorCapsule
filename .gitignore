@@ -1,0 +1,19 @@
+# Ignore OS and user profile clutter
+.AppData/
+.Azure/
+.VirtualBox/
+.vscode/
+__pycache__/
+*.swp
+*.zip
+*.pfx
+*.crt
+*.key
+*.bin
+*.dat
+*.log
+*.ini
+
+# Ignore sensitive files
+NTUSER.*
+wallet-cert.*
