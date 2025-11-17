@@ -1,0 +1,13 @@
+{
+    "status":  "active",
+    "owner":  "tokabg@yahoo.com",
+    "type":  "static-html",
+    "ingress":  {
+                    "exposed":  true,
+                    "fqdn":  "gravity-homepage.happycoast-67a6d145.canadacentral.azurecontainerapps.io",
+                    "tls":  true
+                },
+    "image":  "nginx",
+    "location":  "Canada Central",
+    "capsule":  "gravity-homepage"
+}

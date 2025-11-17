@@ -1,0 +1,12 @@
+{
+    "fqdn":  "gravity-homepage1.calmglacier-fa5600e1.eastus.azurecontainerapps.io",
+    "domain":  "homepage.vscgravity.com",
+    "owner":  "tokabg@yahoo.com",
+    "image":  "gravitybinaryacr.azurecr.io/gravity-homepage:v1",
+    "validator":  {
+                      "status":  "verified",
+                      "timestamp":  "2025-11-04T22:29:18",
+                      "method":  "DNS-CNAME"
+                  },
+    "capsule":  "gravity-homepage1"
+}
