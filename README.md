@@ -1,19 +1,32 @@
 # Validator Capsule — Recruiter Showcase
 
 ## Overview
-This repo demonstrates validator logic for Gravity Binary LLC. It externalizes trust through capsule fingerprints, tier scoring, and recruiter‑facing overlays.
+This repo demonstrates validator logic for Gravity Binary LLC.  
+It externalizes trust through capsule fingerprints, tier scoring, and recruiter‑facing overlays.
+
+---
 
 ## Journey
-- Capsule ingestion in Python, PowerShell, and Go
-- Trust scoring with badge tiers and sync metrics
-- Registry overlays for consequence‑aware proof
-- Recruiter export: fingerprint matrix for external validation
+- Capsule ingestion in **Python, PowerShell, and Go**  
+- Trust scoring with badge tiers and sync metrics  
+- Registry overlays for consequence‑aware proof  
+- Recruiter export: fingerprint matrix for external validation  
+
+---
 
 ## Capsules Included
-- `validator/fingerprint.json` → trust overlay
-- `capsule.json` → capsule metadata
-- `Dockerfile` → container definition
-- `index.html` → validator dashboard capsule
+- `validator/fingerprint.json` → trust overlay  
+- `capsule.json` → capsule metadata  
+- `Dockerfile` → container definition  
+- `index.html` → validator dashboard capsule  
+
+---
 
 ## Recruiter‑Facing Proof
-This capsule compresses validator logic into a clean showcase for recruiters and engineers.
+This capsule compresses validator logic into a clean showcase for recruiters and engineers.  
+It demonstrates how Gravity Binary transforms technical execution into **expressive proof** — every fingerprint is a signal, every badge tier a trust marker, every capsule a recruiter‑facing artifact.
+
+---
+
+### Built with PowerShell precision, GitHub clarity, and consequence‑aware execution  
+**Todd Wolf · Architect of Validator Logic · Gravity Binary LLC**
